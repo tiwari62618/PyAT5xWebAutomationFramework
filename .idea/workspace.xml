@@ -4,28 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8afaf68c-663a-441f-a91b-cbafebf5c8e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PyAT5xWebAutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/katalonStudio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/sample/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/sample/test_vwoLogin_NotOptimized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test/vwoLogin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/Utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/__init__.py" afterDir="false" />
+    <list default="true" id="8afaf68c-663a-441f-a91b-cbafebf5c8e0" name="Changes" comment="please add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/katalonStudio/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/katalonStudio/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/sample/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/sample/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/sample/test_vwoLogin_NotOptimized.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_vwoLogin_NotOptimized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/vwoLogin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/vwoLogin/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tiwari62618"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tiwari62618/PyAT5xWebAutomationFramework.git",
+    "accountId": "8d1c9a35-7611-4679-af0d-e41fe13c9bad"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -75,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737804737635</updated>
     </task>
+    <task id="LOCAL-00001" summary="please add">
+      <option name="closed" value="true" />
+      <created>1737822518775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737822518775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="please add" />
+    <option name="LAST_COMMIT_MESSAGE" value="please add" />
   </component>
 </project>
