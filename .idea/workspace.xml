@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8afaf68c-663a-441f-a91b-cbafebf5c8e0" name="Changes" comment="please add">
+    <list default="true" id="8afaf68c-663a-441f-a91b-cbafebf5c8e0" name="Changes" comment="please add the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/tests/sample/test_vwoLogin_NotOptimized.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_vwoLogin_NotOptimized.py" afterDir="false" />
@@ -24,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tiwari62618"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tiwari62618&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tiwari62618/PyAT5xWebAutomationFramework.git",
-    "accountId": "8d1c9a35-7611-4679-af0d-e41fe13c9bad"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tiwari62618/PyAT5xWebAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;8d1c9a35-7611-4679-af0d-e41fe13c9bad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -85,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1737822851932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="please add the code">
+      <option name="closed" value="true" />
+      <created>1737823751877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737823751877</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="please add" />
-    <option name="LAST_COMMIT_MESSAGE" value="please add" />
+    <MESSAGE value="please add the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="please add the code" />
   </component>
 </project>
