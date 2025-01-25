@@ -58,6 +58,8 @@ def test_app_vwo_login_chrome():
 
     driver.get(os.getenv("URL"))
 
+    take_screen_shot(driver=driver, name="vwo login step-1")
+
     email_web_element=driver.find_element(By.ID,"login-username")
     email_web_element.send_keys(os.getenv("INVALID_USERNAME"))
 
@@ -67,12 +69,14 @@ def test_app_vwo_login_chrome():
     submit_btn_element=driver.find_element(By.ID,"js-login-btn")
     submit_btn_element.click()
 
+    take_screen_shot(driver=driver,name="vwo login step-2")
+
     time.sleep(3)
 
     error_message_web_element=driver.find_element(By.CLASS_NAME,"notification-box-description")
     print(error_message_web_element.text)
 
-    take_screen_shot(driver=driver,name="vwoLoginFailed")
+    take_screen_shot(driver=driver,name="vwoLoginFailed-step3")
 
 
     assert error_message_web_element.text==os.getenv("error_message_expected")
