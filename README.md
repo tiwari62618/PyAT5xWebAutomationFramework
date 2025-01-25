@@ -23,9 +23,9 @@
 ### How to run the Framework?
 pytest -n auto tests/vwoLoginTests/pom/test_*
 
-Dry run test cases
-![image](https://github.com/user-attachments/assets/4cf5e5a1-3eac-4c01-b239-63dd792c27d5)
-
 
 ### How to run Testcase parallel ?
 pytest -n auto tests/test/vwoLoginTests/test_vwo_login.py
+
+Dry run test cases
+![image](https://github.com/user-attachments/assets/4cf5e5a1-3eac-4c01-b239-63dd792c27d5)
